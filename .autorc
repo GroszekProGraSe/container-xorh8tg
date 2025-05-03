@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "GroszekProGraSe",
+  "repo": "container-xorh8tg",
+  "name": "GroszekProGraSe",
+  "email": "sysms.groszek@gmail.com",
+}
